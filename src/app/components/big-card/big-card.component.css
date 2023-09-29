@@ -15,6 +15,7 @@
 .big-card__title > h1  {
   margin-top: 15px;
   font-size: 20px;
+  text-align: center;
 }
 
 .big-card__description{
@@ -27,5 +28,5 @@
 
 .big-card__photo > img{
   width: 100%;
-  min-width: 400px;
+  //min-width: 400px;
 }
