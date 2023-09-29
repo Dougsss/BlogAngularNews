@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./menu-title.component.css']
 })
 export class MenuTitleComponent {
-
+  titleImg: string = './assets/one-piece-logo.png';
 }

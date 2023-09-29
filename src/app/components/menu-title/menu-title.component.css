@@ -2,16 +2,11 @@
   color: white;
 }
 
-.menuTitle > h1{
-  margin-top:15px;
-  margin-bottom:15px;
-  font-size: 135px;
-  font-family: 'segoe UI';
-  display: flex;
-  justify-content: center;
+.menuTitle > img{
+  justify-itens: center;
+  margin-top:10px;
+  margin-bottom:5px;
+  margin-left:25%;
+  margin-right:25%;
 }
 
-.menuTitle > hr{
-  margin-top:20px;
-  margin-bottom:5px;
-}
